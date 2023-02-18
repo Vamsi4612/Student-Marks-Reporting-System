@@ -23,7 +23,6 @@ Following ER diagram indicates the database tables and thier interaction which w
 * Student Features:
     * Can register the Student via Post method
     * Can check whether a student is present or not in the DataBase
-    * Admin can access the details of different users, buses and routes.
 * MarksReport Features:
     * Can insert the values into the database by choosing between the semester and subject
     * Can find the marks of the student by id or by branch or by semester
